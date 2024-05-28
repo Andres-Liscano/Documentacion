@@ -22,9 +22,10 @@ Este proyecto tiene como fin manejar las consultas de los clientes, los cuales l
 
 
 ## Actas
-En la carpeta actas de este repositorio encontrara las actas semanales en donde se especifican las funciones de cada uno de los miembros del equipo.
+En la carpeta de documentacion encontras el manual usuario
+### [Documentacion call center](https://docs.google.com/document/d/1s46XVecVYmfjLfEK27lI3TcYDe-MtO3z/edit?usp=sharing&ouid=111005269872347157968&rtpof=true&sd=true)
 
 # Base de datos
 En este mismo repositorio se encuentra el diagrama entidad relación de la base de datos de Call Center, asi como el script de inicialización de esta misma base de datos en Node
-
+### [Script MYSQL Base de datos](https://drive.google.com/file/d/1pyPtW3NPHw281iVw6jtyXw01AbF9LKt4/view?usp=sharing)
 
